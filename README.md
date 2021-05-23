@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ragha2207
+- 👋 Hi, I’m Ragha
 - 👀 I’m interested in Java and Angular Projects
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on Java project that uses Angular frontend and runs on Azure platform
